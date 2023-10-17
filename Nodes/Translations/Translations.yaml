@@ -1,5 +1,5 @@
 Name: Translations
-Type: FolderType
+Type: TranslationsCategoryFolder
 Children:
 - Name: DizionarioDiLocalizzazione1
   Type: LocalizationDictionary
